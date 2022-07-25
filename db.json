@@ -1,0 +1,124 @@
+{
+
+    "fullTurboData":[
+        {
+            "id": 1,
+            "marka": "Mercedes",
+            "model": "A 200",
+            "img": "https://turbo.azstatic.com/uploads/f460x343/2022%2F05%2F18%2F13%2F36%2F00%2F3c95b31c-3c0f-4cea-8dff-7bda4266fd52%2F83585_UJYNS8nqA1Wq7sSpVTNBLg.jpg",
+            "link": "https://turbo.az/autos/6302647-mercedes-a-200"
+        },
+        
+        {
+            "id": 2,
+            "marka": "Mercedes",
+            "model": "A 200",
+            "img": "https://turbo.azstatic.com/uploads/f330x248/2022%2F06%2F16%2F13%2F06%2F55%2F4b4eaef8-0f7a-475a-8fae-1c0857bea9ce%2F84880_q7o5CDbuDuvbRQPFXMcDRQ.jpg",
+            "link": "https://turbo.az/autos/6387052-mercedes-a-200"
+        },
+        
+        {
+            "id": 3,
+            "marka": "Mercedes",
+            "model": "B 200",
+            "img": "https://turbo.azstatic.com/uploads/f330x248/2022%2F05%2F09%2F11%2F27%2F36%2F087f761f-31a5-42d8-bf74-111dd144cbb5%2F74202_oLhi_cP_hBI3DirApbmf-Q.jpg",
+            "link": "https://turbo.az/autos/6274687-mercedes-b-200"
+        },
+        
+        {
+            "id": 4,
+            "marka": "Mercedes",
+            "model": "B 200",
+            "img": "https://turbo.azstatic.com/uploads/f330x248/2022%2F05%2F29%2F13%2F00%2F10%2Febec37d9-c38b-4fed-a80b-2135c6cc3ecc%2F24772_JRwLn8N5gzkLSL9SxtPZNw.jpg",
+            "link": "https://turbo.az/autos/6335276-mercedes-b-200"
+        },
+        
+        {
+            "id": 5,
+            "marka": "Mercedes",
+            "model": "C 63 AMG",
+            "img": "https://turbo.azstatic.com/uploads/f330x248/2022%2F05%2F29%2F13%2F00%2F10%2Febec37d9-c38b-4fed-a80b-2135c6cc3ecc%2F24772_JRwLn8N5gzkLSL9SxtPZNw.jpg",
+            "link": "https://turbo.az/autos/6335276-mercedes-b-200"
+        },
+        
+        {
+            "id": 6,
+            "marka": "Mercedes",
+            "model": "C 63 AMG",
+            "img": "https://turbo.azstatic.com/uploads/f460x343/2022%2F06%2F04%2F10%2F47%2F37%2F37e7204a-c5f0-479a-917b-14654a651515%2F43315_H1BFZ1yoQzxoiOcx9d29IA.jpg",
+            "link": "https://turbo.az/autos/6352732-mercedes-c-63-amg"
+        },
+        
+        {
+            "id": 7,
+            "marka": "Mercedes",
+            "model": "CL 63 AMG",
+            "img": "https://turbo.azstatic.com/uploads/f330x248/2022%2F05%2F25%2F09%2F48%2F03%2Fae04b281-b568-4e0d-b487-85cfad88e8ae%2F55487_fuJuDBOF9dWshJVLzUEiwQ.jpg",
+            "link": "https://turbo.az/autos/6323486-mercedes-cl-63-amg"
+        },
+        
+        {
+            "id": 8,
+            "marka": "Mercedes",
+            "model": "CLA 45 S AMG",
+            "img": "https://turbo.azstatic.com/uploads/f330x248/2022%2F05%2F16%2F14%2F52%2F36%2F2937f792-4483-4372-9cad-584818218517%2F4660_KCBrWc4IPmwWgI-QRs8KVA.jpg",
+            "link": "https://turbo.az/autos/6296931-mercedes-cla-45-s-amg"
+        },
+                
+        {
+            "id": 9,
+            "marka": "Audi",
+            "model": "A8",
+            "img": "https://turbo.azstatic.com/uploads/f460x343/2022%2F05%2F22%2F09%2F07%2F30%2F12b6e9e8-f040-4352-91bb-192267575382%2F36352_insjwW2VPLpAfWzbMLJ4NQ.jpg",
+            "link": "https://turbo.az/autos/6313477-audi-a8"
+        },
+        
+        {
+            "id": 10,
+            "marka": "Audi",
+            "model": "A8",
+            "img": "https://turbo.azstatic.com/uploads/full/2022%2F06%2F17%2F17%2F23%2F08%2F3ac4c8b2-0cac-441f-85c5-c984ce901d5f%2F16136_LD5eONVueH9uLrpCBdZokQ.jpg",
+            "link": "https://turbo.az/autos/6390659-audi-a8"
+        },
+        
+        {
+            "id": 11,
+            "marka": "Audi",
+            "model": "Q8",
+            "img": "https://turbo.azstatic.com/uploads/f460x343/2022%2F05%2F19%2F12%2F32%2F48%2F7260153a-d527-4f24-b97a-065723671f1f%2F83588_PJbQTXCqgRMh5U-U9PV16Q.jpg",
+            "link": "https://turbo.az/autos/6305672-audi-q8"
+        },
+        
+        {
+            "id": 12,
+            "marka": "Audi",
+            "model": "TT",
+            "img": "https://turbo.azstatic.com/uploads/f330x248/2022%2F05%2F16%2F11%2F00%2F14%2F7b653499-adf6-4e7d-915a-b0dc0de520fe%2F69129_kg5SyzkNWE4B923T7nrIng.jpg",
+            "link": "https://turbo.az/autos/6296093-audi-tt"
+        },
+        
+        {
+            "id": 13,
+            "marka": "Audi",
+            "model": "TT",
+            "img": "https://turbo.azstatic.com/uploads/f330x248/2022%2F05%2F30%2F18%2F05%2F49%2F4dd66c97-183b-4322-a2e8-dc7193e77835%2F89683_TE8rrYase8BO3dTxr33YPg.jpg",
+            "link": "https://turbo.az/autos/6340079-audi-tt"
+        },
+        
+        {
+            "id": 14,
+            "marka": "Audi",
+            "model": "S8",
+            "img": "https://turbo.azstatic.com/uploads/f330x248/2022%2F03%2F30%2F15%2F07%2F00%2F57d19c46-385f-4338-9ada-ce7aaf0bce07%2F72964_A7EI9EjHAvvbyWM91AmXNg.jpg",
+            "link": "https://turbo.az/autos/6138879-audi-s8"
+        },
+        
+        {
+            "id": 15,
+            "marka": "Audi",
+            "model": "S8",
+            "img": "https://turbo.azstatic.com/uploads/f460x343/2022%2F05%2F01%2F23%2F38%2F14%2F325d720d-6dea-4afc-9438-4a6458ceca50%2F68929_JKAJnjtIRb8u0JRv391bTQ.jpg",
+            "link": "https://turbo.az/autos/6252880-audi-s8"
+        }
+    ]
+}
